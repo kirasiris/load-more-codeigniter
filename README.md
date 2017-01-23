@@ -12,3 +12,8 @@
 
 # DEMO SITE
     http://smkti.hol.es
+
+# SETTING TAMBAHAN
+    edit footer.php di /application/views/footer.php
+    di bagian ajax diganti sesuia path project masing-masing
+    bagian ini :  var url = 'http://localhost/~maulayyacyber/crud_ci/'
