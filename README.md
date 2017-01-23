@@ -10,3 +10,5 @@
 # LOAGIN ADMIN
     http://localhost/folder-project/admin/login
 
+# DEMO SITE
+    http://smkti.hol.es
